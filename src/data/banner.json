@@ -1,0 +1,14 @@
+{
+    "US":[{"name":"US - Banner 1"},{"name":"US - Banner 2"},{"name":"US - Banner 3"},{"name":"US - Banner 4"},{"name":"US - Banner 5"}],
+    "UK":[{"name":"UK - Banner 1"},{"name":"UK - Banner 2"}],
+    "JP":[{"name":"JP - Banner 1"},{"name":"JP - Banner 2"},{"name":"JP - Banner 3"}],
+    "IN":[{"name":"IN - Banner 1"}],
+    "DM":[{"name":"DM - Banner 1"},{"name":"DM - Banner 2"},{"name":"DM - Banner 3"},{"name":"DM - Banner 4"}],
+    "CAM":[{"name":"CAM - Banner 1"},{"name":"CAM - Banner 2"}],
+    "CN":[{"name":"CN - Banner 1"}],
+    "CH":[{"name":"CH - Banner 1"},{"name":"CH - Banner 2"}],
+    "CA":[{"name":"CA - Banner 1"}],
+    "BR":[{"name":"BR - Banner 1"},{"name":"BR - Banner 2"},{"name":"BR - Banner 3"}],
+    "AR":[{"name":"AR - Banner 1"}]
+    
+}

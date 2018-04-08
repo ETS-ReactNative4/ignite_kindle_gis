@@ -1,0 +1,16 @@
+{
+    "Countries":
+    [
+        {"name":"Argentina","code":"AR"},
+        {"name":"Brazil","code":"BR"},
+        {"name":"Canada","code":"CA"},
+        {"name":"Chile","code":"CH"},
+        {"name":"China","code":"CN"},
+        {"name":"Central America","code":"CAM"},
+        {"name":"Denmark","code":"DM"},
+        {"name":"India","code":"IN"},
+        {"name":"Japan","code":"JP"},
+        {"name":"United Kingdom","code":"UK"},
+        {"name":"United States","code":"US"}
+    ]
+}

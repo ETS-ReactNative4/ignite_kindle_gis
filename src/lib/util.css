@@ -1,0 +1,16 @@
+.star{color:red}
+.pageFont{font-family: Verdana;font-size: 15px}
+.pageMargin{margin-left: 200px;margin-right:200px;}
+.pageHeader{font-family: verdana;font-size: 20px}
+.ruler{background-color: gray;height: 3px;}
+.list{overflow: auto;border:1px solid gray;padding: 10px;background-color: lightblue}
+.alignTop{vertical-align: top}
+.rightArrow{float:right;cursor: pointer}
+.listItem{}
+.banner{display: block;position: absolute;background-color: lightblue}
+/* For arrows */
+i {border: solid black;border-width: 0 3px 3px 0;display: inline-block;padding: 3px;}
+.right {transform: rotate(-45deg);-webkit-transform: rotate(-45deg);}
+.left {transform: rotate(135deg);-webkit-transform: rotate(135deg);}
+.up {transform: rotate(-135deg);-webkit-transform: rotate(-135deg);}
+.down {transform: rotate(45deg);-webkit-transform: rotate(45deg);}
