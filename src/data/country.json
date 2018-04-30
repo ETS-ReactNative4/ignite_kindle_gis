@@ -1,16 +1,16 @@
 {
     "Countries":
     [
-        {"name":"Argentina","code":"AR"},
-        {"name":"Brazil","code":"BR"},
-        {"name":"Canada","code":"CA"},
-        {"name":"Chile","code":"CH"},
-        {"name":"China","code":"CN"},
-        {"name":"Central America","code":"CAM"},
-        {"name":"Denmark","code":"DM"},
-        {"name":"India","code":"IN"},
-        {"name":"Japan","code":"JP"},
-        {"name":"United Kingdom","code":"UK"},
-        {"name":"United States","code":"US"}
+        {"name":"Argentina","code":"AR","selected":"true"},
+        {"name":"Brazil","code":"BR","selected":"false"},
+        {"name":"Canada","code":"CA","selected":"false"},
+        {"name":"Chile","code":"CH","selected":"true"},
+        {"name":"China","code":"CN","selected":"true"},
+        {"name":"Central America","code":"CAM","selected":"true"},
+        {"name":"Denmark","code":"DM","selected":"false"},
+        {"name":"India","code":"IN","selected":"true"},
+        {"name":"Japan","code":"JP","selected":"true"},
+        {"name":"United Kingdom","code":"UK","selected":"true"},
+        {"name":"United States","code":"US","selected":"false"}
     ]
 }

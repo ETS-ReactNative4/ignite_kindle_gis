@@ -1,0 +1,54 @@
+{
+    "Profile 1":
+    {
+        "Countries":
+        [
+            {"name":"Argentina","code":"AR","selected":"true"},
+            {"name":"Canada","code":"CA","selected":"false"},
+            {"name":"Chile","code":"CH","selected":"true"},
+            {"name":"Central America","code":"CAM","selected":"true"},
+            {"name":"India","code":"IN","selected":"true"},
+            {"name":"United Kingdom","code":"UK","selected":"true"}
+        ]
+    },
+    "Profile 2":
+    {
+        "Countries":
+        [
+            {"name":"Brazil","code":"BR","selected":"false"},
+            {"name":"Chile","code":"CH","selected":"true"},
+            {"name":"Central America","code":"CAM","selected":"true"}
+        ]
+    },
+    "Profile 3":
+    {
+        "Countries":
+        [
+            {"name":"Brazil","code":"BR","selected":"false"},
+            {"name":"Chile","code":"CH","selected":"true"},
+            {"name":"Central America","code":"CAM","selected":"true"},
+            {"name":"India","code":"IN","selected":"true"},
+            {"name":"United Kingdom","code":"UK","selected":"true"}
+        ]
+    },
+    "Profile 4":
+    {
+        "Countries":
+        [
+            {"name":"India","code":"IN","selected":"true"},
+            {"name":"Japan","code":"JP","selected":"true"},
+            {"name":"United Kingdom","code":"UK","selected":"true"},
+            {"name":"United States","code":"US","selected":"false"}
+        ]
+    },
+    "Profile 5":
+    {
+        "Countries":
+        [
+            {"name":"Argentina","code":"AR","selected":"true"},
+            {"name":"Brazil","code":"BR","selected":"false"},
+            {"name":"Canada","code":"CA","selected":"false"}
+        ]
+    }
+
+}

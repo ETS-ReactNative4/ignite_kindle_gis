@@ -1,0 +1,10 @@
+{
+        "Profiles":
+        [
+            {"name":"Profile 1","isActive":"true"},
+            {"name":"Profile 2","isActive":"true"},
+            {"name":"Profile 3","isActive":"true"},
+            {"name":"Profile 4","isActive":"false"},
+            {"name":"Profile 5","isActive":"false"}
+        ]
+}
